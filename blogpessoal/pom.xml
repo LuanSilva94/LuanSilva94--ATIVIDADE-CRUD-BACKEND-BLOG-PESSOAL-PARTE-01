@@ -38,9 +38,9 @@
 			<artifactId>postgresql</artifactId>
 		</dependency> 
 		<dependency>
-		      <groupId>org.springdoc</groupId>
-		      <artifactId>springdoc-openapi-ui</artifactId>
-		      <version>1.6.15</version>
+		     <groupId>org.springdoc</groupId>
+		     <artifactId>springdoc-openapi-ui</artifactId>
+		     <version>1.6.15</version>
    		</dependency>
 		<!-- Dependência para Codificação do Token -->
 		<dependency>
